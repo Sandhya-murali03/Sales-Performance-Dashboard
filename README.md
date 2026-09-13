@@ -1,1 +1,7 @@
 # Sales-Performance-Dashboard
+
+The Sales Performance Dashboard is a data analysis and visualization project developed using Microsoft Power BI to analyze and monitor sales performance effectively. The project uses a sales dataset containing information such as orders, products, categories, regions, customers, sales, quantity, and profit. The raw data was first cleaned by handling null values, removing duplicate records, and ensuring appropriate data types using Excel before importing it into Power BI.
+
+The dashboard provides key performance indicators such as Total Sales, Total Profit, Total Orders, Total Quantity, and Profit Margin Percentage. It also analyzes sales trends across monthly, quarterly, and yearly periods, along with comparisons based on product categories, regions, segments, and shipping modes. Product-level analysis identifies the top-performing products by sales and profit as well as low-performing products. Interactive slicers allow users to filter and explore the data based on different business dimensions.
+
+The developed three-page interactive dashboard helps transform raw sales data into meaningful visual insights, enabling users to understand business performance, identify profitable and underperforming areas, and support data-driven decision-making. Overall, the project demonstrates the practical application of data cleaning, data analysis, visualization, KPI tracking, and interactive dashboard development using Power BI.
